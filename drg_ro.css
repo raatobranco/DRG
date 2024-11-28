@@ -1,0 +1,13 @@
+.carta{
+    background-image:URL(https://media.istockphoto.com/id/1326267176/vector/wide-striped-lined-horizontal-glowing-green-background.jpg?s=612x612&w=0&k=20&c=siB39Zq2C0V5Nz8OBcieCqrC4asBttadbkqrV6YWPnM=) ; 
+}
+body
+{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX6yyNBgmlZfNq6o01lUuzBhw25A4QEC9gTA&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.square
+{
+    background-color:darkgreen;
+}
